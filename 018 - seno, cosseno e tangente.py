@@ -1,4 +1,4 @@
-# Faça um programa que ielai um ângulo qualquer e mostre na tela o valor do
+# Faça um programa que leia um ângulo qualquer e mostre na tela o valor do
 # seno, cosseno e tangente desse ângulo.
 # Exemplo: Seno: 0.71 | Cosseno: 0.71 | Tangente: 1.00
 
